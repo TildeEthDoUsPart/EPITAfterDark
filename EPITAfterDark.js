@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         EPTAfterDark
+// @name         EPITAfterDark
 // @namespace    http://tampermonkey.net/
 // @version      2025-03-05
 // @description  Dark Mode for EPITA's moodle. Feel free to contribute!
@@ -17,4 +17,4 @@ function addStyleSheet(style){
   return elementStyle;
 }
 
-addStyleSheet('@import "https://raw.githubusercontent.com/TildeEthDoUsPart/EPITAfterDark/refs/heads/main/DarkMoodle.css";');
+addStyleSheet('@import "https://cdn.jsdelivr.net/gh/TildeEthDoUsPart/EPITAfterDark@refs/heads/main/DarkMoodle.css";');
