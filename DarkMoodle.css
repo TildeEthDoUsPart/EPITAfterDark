@@ -207,6 +207,13 @@ footer::after{
     background-color: #777!important;
 }
 
+.activity-header {
+   background-color: #343a40!important;
+}
+
+.badge {
+    color: #000!important;
+}
 
 /* Scrollbar */
 ::-webkit-scrollbar {
