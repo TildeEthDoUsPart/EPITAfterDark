@@ -2,7 +2,7 @@
     background-color:#222!important
 }
 body{
-    background-image:url('https://raw.githubusercontent.com/Fyelne/Dark-Moodle/main/images/background.png') !important;
+    background-image:url('https://raw.githubusercontent.com/TildeEthDoUsPart/EPITAfterDark/refs/heads/main/background.png') !important;
 }
 select,select option,body,.mdc-text-field,input,.card-deck,.profile_tree,.message,.preferences-container .preference-table tr th:nth-child(even),.preferences-container .preference-table tr td:nth-child(even),textarea.form-control,.btn-icon:focus,.btn-icon:hover,.path-mod-assign td.submissionnotgraded,.editor_atto_content {
     background-color:#333!important
@@ -136,7 +136,7 @@ div.border,.mdc-notched-outline__leading,.mdc-notched-outline__notch,.mdc-notche
     float: right !important;
 }
 footer::after{
-    content:"Dark Moodle by Fyelne";
+    content:"Fork of Dark Moodle by Fyelne, brought to you by TildeEth";
     text-align: center;
     display: block; 
 }
