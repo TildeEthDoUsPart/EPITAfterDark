@@ -158,8 +158,18 @@ footer::after{
   background-color: #222!important;
 }
 
-.d-none{
+.d-none, .login-container {
+  color: #333!important;
   background-color: #333!important;
+}
+
+.alert-danger {
+    background-color: #D0342C!important;
+}
+
+.pagelayout-login #page
+{
+  background-image:url('https://raw.githubusercontent.com/TildeEthDoUsPart/EPITAfterDark/refs/heads/main/background.png') !important;
 }
 
 .navbar.fixed-top {
@@ -207,13 +217,6 @@ footer::after{
     background-color: #777!important;
 }
 
-.activity-header {
-   background-color: #343a40!important;
-}
-
-.badge {
-    color: #000!important;
-}
 
 /* Scrollbar */
 ::-webkit-scrollbar {
